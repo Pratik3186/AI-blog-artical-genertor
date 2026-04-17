@@ -25,7 +25,7 @@ An intelligent web application that automatically generates high-quality blog ar
 
 ### Backend
 - Python  
-- Django  
+- Django  (backend) 
 
 ### AI & Tools
 - OpenAI / Google Generative AI API  
